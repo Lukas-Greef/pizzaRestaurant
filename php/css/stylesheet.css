@@ -1,0 +1,187 @@
+body{
+    margin: 0px;
+
+}
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.child{
+    width: 80%;
+}
+.header{
+    background-color: #CC0000;
+    width: 100%;
+    height: 82px;
+}
+.login-text{
+    font-size: 24px;
+    color: white;
+    margin-left: 5px;
+}
+.logo{
+    width: 46px;
+    height: 46px;
+}
+.font{
+    font-size: 24px;
+}
+.text{
+    color: white;
+}
+.zoekbalk-achtergrond{
+    background-color: black;
+    width: 100%;
+    height: 106px;
+}
+.winkelwagen{
+    width: 57px;
+    height: 55px;
+    margin-left: 180px;
+}
+.center {
+    display: flex;
+    align-items: center;
+}
+.logo-zoekbalk{
+    width: 81px;
+    height: 51px;
+}
+.margin-left{
+    margin-left: 10px;
+}
+.zoeken{
+    border-radius: 16px;
+    padding: 8px;
+    width: 250px;
+}
+.categorie{
+    background-color: #FFD800;
+    padding: 10px;
+    border-radius: 16px;
+}
+.opties{
+    display: flex;
+    gap: 15px;
+    margin-top: 10px;
+}
+.font-viertien{
+    font-size: 14px;
+}
+.pizza-punten{
+    width: 376px;
+    height: 165px;
+    margin-top: 15px;
+}
+.border-radius-twee{
+    border-bottom-right-radius: 16px;
+    border-top-left-radius: 16px;
+}
+.gerecht{
+    border: solid black 3px;
+    width: 368px;
+    display: flex;
+    flex-direction: column;
+}
+.img-order {
+    width: 175px;
+    height: 168px;
+    margin: 5px;
+}
+.bestel{
+    color: #FFD800;
+    border: solid #FFD800 3px;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    width: 160px;
+}
+.margin-top{
+    margin-top: 30px;
+}
+.login-top-text{
+    font-size: 64px;
+    margin-top: 20px;
+}
+.login-facebook{
+    background-color: #0866FF;
+    display: flex;
+    border-radius: 32px;
+    padding: 12px;
+    margin-top: 25px;
+}
+.logo-facebook{
+    width: 60px;
+    height: 71px;
+    margin-left: 20px;
+}
+.facebook-text {
+    font-size: 32px;
+    margin-left: 11px;
+}
+.tussen-stuk{
+    display: flex;
+    margin-top: 40px;
+    gap: 20px;
+}
+.of{
+    font-size: 32px;
+}
+.lijn{
+    height: 3px;
+    background-color: black;
+    width: 116px;
+    margin-top: 20px;
+}
+.text-top-input{
+    font-size: 24px;
+    margin-left: 10px;
+}
+.margin-small{
+    margin-top: 20px;
+}
+.login-input{
+    margin-top: 20px;
+    font-size: 32px;
+    padding: 8px;
+    width: 100%;
+}
+.wachtwoord-vergeten{
+    color: #FFD800;
+    font-size: 20px;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+.flex-box{
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+}
+.check-box{
+    width: 33px;
+    height: 35px;
+    border-radius: 6px;
+    border: solid black 3px;
+}
+.black-text{
+    font-size: 20px;
+}
+.login-button{
+    background-color: #FFD800;
+    padding: 4px;
+    width: 104px;
+    text-align: center;
+    border-radius: 16px;
+    margin-left: 40px;
+}
+.margin-left{
+    margin-left: 5px;
+}
+.margin-top-{
+    margin-top: 20px;
+}
+.flex-colum{
+    display: flex;
+    flex-direction: column;
+}
